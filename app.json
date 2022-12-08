@@ -1,0 +1,15 @@
+{
+  "name": "novibesonlyencryptions ;)",
+  "description": "Deploy SS",
+  "env": {
+     "Password": {
+      "description": "The password of shadowsocks ;) you should change this",
+      "value": "nOvIbEs"
+    }, 
+     "Domain": {
+      "description": "Please enter the complete url of server where the app is deployed (Without schema like 'https://' etc.)",
+      "value": "no"
+    }
+  },
+  "stack": "container"
+ }
